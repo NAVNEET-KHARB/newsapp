@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsapp/static/css/main.84863101.css",
+    "main.js": "/newsapp/static/js/main.b0684492.js",
+    "static/js/787.4c026eef.chunk.js": "/newsapp/static/js/787.4c026eef.chunk.js",
+    "static/media/Flip Flop.gif": "/newsapp/static/media/Flip Flop.6c1faba190c394abc283.gif",
+    "index.html": "/newsapp/index.html",
+    "main.84863101.css.map": "/newsapp/static/css/main.84863101.css.map",
+    "main.b0684492.js.map": "/newsapp/static/js/main.b0684492.js.map",
+    "787.4c026eef.chunk.js.map": "/newsapp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84863101.css",
+    "static/js/main.b0684492.js"
+  ]
+}
